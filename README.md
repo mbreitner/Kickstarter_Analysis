@@ -26,7 +26,7 @@ The challeneges I encountered were specifically in writing the countifs function
   1. May & June are the months with the most amout of successful theater launched. The start of the summer is likely the best time to launch a theater. 
   2. September - December had least amount of successful campaigns. The end of the year will likely have the least amount of success when launching a theater. 
   
-  **- What can you conclude about the Outcomes based on Goals?**
+  - **What can you conclude about the Outcomes based on Goals?**
   1. The vast majority of successful campaigns happen when the fundraising goal is less the $10,000.
   2. Fundraising goals greater the 50,000 have an 88% chance of failure
   
